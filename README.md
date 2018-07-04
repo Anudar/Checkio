@@ -1,2 +1,2 @@
 # Exercises
-You can find here my solutions of Checkio exercises in phyton.
+My python solutions to Checkio exercises.
